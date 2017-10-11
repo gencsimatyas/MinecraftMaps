@@ -1,0 +1,76 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: #000;
+}
+.cim {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 30px;
+	color: #FFF;
+}
+.iras {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 24px;
+	color: #CCC;
+}
+.iras {
+	font-size: 18px;
+	color: #FFF;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	color: #FFF;
+}
+.iras2 {
+		font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	color: #CCC;
+}
+.tabla {
+	border: medium solid #000;
+	color: #000;
+}
+.iras3 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 32px;
+	color: #999;
+}
+
+.iras4 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 28px;
+	color: #000;
+}
+.linki
+{
+	color:#000;
+	font-size:30px;
+	text-align:center;
+}
+a:link
+{
+	text-decoration: none;
+}
+
+.iras5
+{
+	text-align:center;
+	font-size:16px;
+	color:#FFF;
+	text-decoration:none;
+}
+
+.iras6
+{
+	text-align:center;
+	color:#FFF;
+	font-size:24px;
+}
+.glink
+{
+	text-decoration:none;
+	color:#FFF;
+}
